@@ -8,6 +8,6 @@
 	echo "H1101161020";
 	define("STATUS", "Sendiri dulu");
 
-	$a=99
-	echo "$a";;
+	$a=99;
+	echo "$a";
 ?>
