@@ -13,5 +13,6 @@
 	</tr>
 
 <?php endforeach; ?>
+
 	
 </table>
